@@ -1,0 +1,1 @@
+it is an normal representation of (how to a user use login an signup page with the proper authentication process in which the users information will save in the form of hash and salt form in the encrypted form which is not crackable by the hackers)
