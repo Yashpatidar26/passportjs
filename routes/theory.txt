@@ -1,0 +1,15 @@
+passport ke through hum authenticate krte user kein password ko
+
+
+password ko passport ke through encrypt kra jata hai aur yeh one way yeh wapas decrypt nhi hota hai
+ye do form mai incrpt hota hai SALT , HASH
+
+
+Hash aapke password ko save krta hau encrypted form hai bt hash same rehta hai toh usko hack krna aasan rehta hai ek possible 
+set of values ki hash set
+
+isilye vir salt aata hai jab bhi aap login kroge yeh ek unique set of number dega  har baar alag alag rhega aur 
+fir salt aur hash ki combination se aapka password encrypt hota hai
+
+
+
